@@ -1,7 +1,7 @@
 ### Hi, I'm Mohamed Hammad 
 - I’m a Software Test Engineer.
 - I'm currently working on java-based Test Automation Projects.
-- I’m currently learning CI/CD and Docker technology.
+- I’m currently learning CI/CD and containerization technology (Docker).
 - I’m looking to collaborate on any open-source Test Automation Project.
 
 
