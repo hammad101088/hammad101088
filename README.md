@@ -4,5 +4,3 @@
 
 
 - [LinkedIn Profile](https://www.linkedin.com/in/mohamed-hammad-88a433186/)
-- [CV](https://hammad101088.github.io/MohamedHammad-Resume/)
-
